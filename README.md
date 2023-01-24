@@ -13,3 +13,25 @@ official documentation to get it on your system. Once done, you can follow the b
 - Execute ```love ./```
 
 - Love2d window with the game running in it should open.
+
+## What all have been used to make this
+
+- The programming language used is Lua.
+
+- The game library/engine used is Love2d
+
+- For handling and playing animations I have used <a href="https://github.com/kikito/anim8">anim8</a>
+
+- For working with game map I have used <a href="https://github.com/karai17/Simple-Tiled-Implementation">Simple-Tiled-Implementation</a>
+
+- For creating the game map I have used <a href="https://www.mapeditor.org/">Tiled</a>. Do note that this game does not use tiles. However I used
+  a game map for easy placement of game sprites on the screen. That way I dont have to dynamically calculate their starting position since they
+  are already available in the map.
+
+- For creating the sprites and sprite sheets, I have used Gimp.
+
+- For producing the sounds I have used my old melodica. A melodica is a wind instrument with keyboard like keys mounted on top of it. I recorded the sound
+  using my mobile phone.
+
+- For editting the recorded sounds I used <a href="https://www.audacityteam.org/">Audacity</a>
+
