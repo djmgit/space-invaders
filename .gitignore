@@ -1,3 +1,6 @@
 sprites_dev/
 audio/aac_files/
 audacity_projects
+dist/
+SpaceInvaders.love
+build/

@@ -347,7 +347,6 @@ function love.draw()
     love.graphics.printf("LIVES ", 1000, 20, love.graphics:getWidth(), "left")
     love.graphics.setColor(0, 1, 0)
     for i=1, lives, 1 do
-        print (i.."\n")
         love.graphics.draw(sprites.player, 1150 + i * (sprites.player:getWidth() + 50), 20, nil, nil, nil, sprites.player:getWidth()/2, sprites.player:getHeight()/2)
     end
     for i, brick in ipairs(bricks) do
