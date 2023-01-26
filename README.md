@@ -3,6 +3,8 @@
 This is a lua implementation of the famous Space Invaders. I have tried to keep it as close as possible to the original game, have tried to create
 similar looking sprites, similar color schemes, and same type of movement. Bonus redship is also available, yaay!.
 
+![GIF](https://github.com/djmgit/space-invaders/blob/master/doc_assets/spaceinvaders.gif)
+
 ## Getting the game (archives/binaries)
 
 ### for Linux
